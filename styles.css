@@ -8,10 +8,10 @@ p:first-child {
 	background-color: black;
 }
 p:nth-child(2) {
-	color: red;
+	color: black;
 }
 p:last-child {
-  color: green;
+  color: red;
 }
 ul li{
 	background-color:gray;
